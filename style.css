@@ -4,7 +4,11 @@
 }
 
 body {
+<<<<<<< HEAD
     margin: 20px;
+=======
+    margin: 10px;
+>>>>>>> 04e75c63b9fa993d89799666e02080ce3066bc74
     padding: 0;
     font-family: "Poppins", sans-serif;
 }
